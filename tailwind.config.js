@@ -1,0 +1,1 @@
+export default {content:["./index.html","./src/**/*.{js,ts,jsx,tsx}"],theme:{extend:{fontFamily:{display:["Barlow Condensed","Inter","sans-serif"]},colors:{ng:{black:"#090a0a",graphite:"#111416",yellow:"#f3b51b"}}}},plugins:[]};

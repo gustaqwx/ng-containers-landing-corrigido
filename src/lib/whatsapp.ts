@@ -1,0 +1,1 @@
+export const whatsappNumber="5541999545372";export function openWhatsApp(message:string){window.open(`https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`,"_blank","noopener,noreferrer");}
